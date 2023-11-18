@@ -1,0 +1,11 @@
+div {
+    color:red;
+
+}
+
+.conteiner {
+    width:1200px ;
+    min-height: 100%; 
+    margin:0 auto ;
+    border: 2px solid aquamarine;
+}
